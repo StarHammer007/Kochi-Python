@@ -1,0 +1,19 @@
+<!-- wp:gallery {"ids":[70,74],"imageCrop":false} -->
+<figure class="wp-block-gallery columns-2"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://kochipython.files.wordpress.com/2019/11/pycon1-1.jpg?w=525" alt="" data-id="70" class="wp-image-70"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://kochipython.files.wordpress.com/2019/11/pycon1-4.jpg?w=525" alt="" data-id="74" class="wp-image-74"/></figure></li></ul><figcaption class="blocks-gallery-caption"><em><strong>Amazing time with these Kochi Pythonistas</strong></em></figcaption></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><em>Though my expectation of Pycon 19 was a national conference.I got to meet many of the pythonistas from Kerala especially people from  our Kochi python group.I personally felt Kochi python as  very active group were you've got all kinds of pythoneers from beginners to professionals who are always willing to help.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>It was my first time meeting many of them in person,though they were familiar 'Online'.We  were able to squeeze time for a small fun-packed meetup all the way at Pycon 19 and interacting with them.The session was followed by us going for couple distinct &amp; innovative  talks by Subin Siby,Adam and finally by Kurian Benoy. </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My favorite session in particular would be the Indicnlp.org headed by our very own Adam Shamsudeen.<a href="http://www.indicnlp.org">IndicNLP.org</a> was first introduced to me beforehand by Adam himself,as a open data platform for regional Indian languages,where Selva worked on Tamil,Soham on Bangla,Adam and Kamal on Malayalam.It tackled with the social problem of linguistic barriers between different regional languages and their transliteration inavailability into predominant english language.To my knowledge,this idea was born way back on April 14 Kochi Python Meetup with idea pitch by Adam.Everyone back welcome the idea with open arms but now the issue addressed at Pycon 19 was  for the dataset collection for these languages.We were able to gather a couple of volunteers towards this goal post session.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>It was genuinely interesting to learn and discuss domains where everyone's interests lie and what  they are currently working on.Many networks were refreshed &amp; many new made. Hope to see all of them again at the next meetup!</em></p>
+<!-- /wp:paragraph -->
